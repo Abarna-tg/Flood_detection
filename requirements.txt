@@ -4,3 +4,5 @@ geopy
 folium
 requests
 gTTS
+matplotlib
+
